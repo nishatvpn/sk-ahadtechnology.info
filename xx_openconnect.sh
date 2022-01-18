@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='209.159.152.66';
-db_user='crypticv_fplusvpnapp';
-db_pass='@@F1r3n3t@@';
-db_name='crypticv_fplusvpnapp';
+db_host='82.223.165.66';
+db_user='nishatvip_ahadtech';
+db_pass='@@@@F1r3n3t';
+db_name='nishatvip_ahadtech';
 
 install_require()
 {
